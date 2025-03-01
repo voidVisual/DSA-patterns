@@ -1,3 +1,9 @@
+/*
+    * * * *
+    * * * * 
+    * * * *
+    * * * *
+*/
 #include<iostream>
 using namespace std;
 void pattern02(int n){
