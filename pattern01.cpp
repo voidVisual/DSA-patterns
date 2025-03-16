@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//this is an * print pattern example//
 using namespace std;
 void pattern01(int n){
     for(int i=1;i<=4;i++){
